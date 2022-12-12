@@ -74,3 +74,12 @@ Inside "Draw" we will use the uniforms and attributes of the locators to draw th
     }
 ```
 
+Screenshot of the shadow:
+
+![img](./img/shadow1.PNG)
+
+![img](./img/shadow2.PNG)
+
+GIF of the shadow:
+
+![gif](./GIF/shadow.gif)
